@@ -1,4 +1,4 @@
-"""Keyboard Knights of Acacia Solution. 
+"""Keyboard Knights Solution. 
 
 1. Construct graph where nodes are keys, links are to keys which are valid knight moves
 2. Recursively search graph for all possible paths of length 10
